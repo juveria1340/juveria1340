@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-## About me
-I am a passionate Python developer specializing in automation, CI/CD, API development, and cloud-native solutions.  
+## :star: About me
+I am a passionate :snake: Python developer specializing in automation, CI/CD, API development, and cloud-native solutions.  
 I enjoy solving complex problems with clean, maintainable code and creating scalable systems.  
-I love automating stuff which involves data.  
+I love :gear: automating stuff which involves data.  
 
 - 🔭 I’m currently pursuing my masters in Computer Science ...  
 
-## Skills & Technologies  
+## :thought_balloon: Skills & Technologies  
 - Programming Languages: Python, Java  
 - Frameworks & Tools: FastAPI, Jenkins (Groovy), GitHub Actions, Docker, Kubernetes  
 - Messaging Systems: Apache Kafka  
