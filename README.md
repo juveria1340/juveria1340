@@ -16,7 +16,7 @@ I love :gear: automating stuff which involves data with 2+ years of experince as
 
 
   
-- 📫 How to reach me:  
+## 📫 How to reach me:  
 linkedIn : https://www.linkedin.com/in/juveria-iram-4495b3181/ 
 instagram : juveria_irm 
   
