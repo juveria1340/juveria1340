@@ -21,5 +21,5 @@ linkedIn : https://www.linkedin.com/in/juveria-iram-4495b3181/
 instagram : juveria_irm 
   
   
-### Thank you for visiting my portfolio! Feel free to reach out for collaboration or freelance opportunities.
+### :blush: Thank you for visiting my portfolio! Feel free to reach out for collaboration or freelance opportunities.
 
