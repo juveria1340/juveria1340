@@ -3,10 +3,9 @@
 ## :star: About me
 I am a passionate :snake: Python developer specializing in automation, CI/CD, API development, and cloud-native solutions.  
 I enjoy solving complex problems with clean, maintainable code and creating scalable systems.  
-I love :gear: automating stuff which involves data.
-I have 2+ years of experince as DevOps and Python automation Engineer.    
+I love :gear: automating stuff which involves data with 2+ years of experince as DevOps and Python automation Engineer.    
 
-🔭 I’m currently pursuing my masters in Computer Science ...  
+:triangular_flag_on_post: I am currently pursuing my masters in Computer Science ...  
 
 ## :thought_balloon: Skills & Technologies  
 - Programming Languages: Python, Java  
