@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+## About me
 I am a passionate Python developer specializing in automation, CI/CD, API development, and cloud-native solutions. 
 I enjoy solving complex problems with clean, maintainable code and creating scalable systems.
 I love automating stuff which involves data.
@@ -21,5 +21,5 @@ linkedIn : https://www.linkedin.com/in/juveria-iram-4495b3181/
 instagram : juveria_irm
 
 
-Thank you for visiting my portfolio! Feel free to reach out for collaboration or freelance opportunities.
--->
+### Thank you for visiting my portfolio! Feel free to reach out for collaboration or freelance opportunities.
+
